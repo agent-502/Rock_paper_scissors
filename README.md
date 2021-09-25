@@ -1,2 +1,2 @@
 # Rock_paper_scissors
-Hey, whats up friends:)
+Rock paper scissor game written in python
